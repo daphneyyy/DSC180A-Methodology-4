@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Xuewen Yang
-xuy001@ucsd.edu
+Xuewen Yang and Eddie Ho
